@@ -1,0 +1,9 @@
+.hero {
+    background-image: url('bunga.jpg');
+    /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px 0;
+}
